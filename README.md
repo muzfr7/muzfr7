@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+The name is Muzafar Ali Jatoi (Ali), I work as Senior Backend Software Engineer with over 9 years of professional experience in developing secure and scalable applications leveraging microservices architecture in Golang and PHP.
+
+[![https://www.linkedin.com/in/muzfr7](https://user-images.githubusercontent.com/3499157/122663676-d6ebde80-d1b5-11eb-9107-d7c2b6a25706.jpg)](https://www.linkedin.com/in/muzfr7)
+
 <!--
 **muzfr7/muzfr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
