@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-The name is Muzafar Ali Jatoi (Ali), I'm a Senior Backend Software Engineer with over 9 years of professional experience in developing secure and scalable applications leveraging microservices architecture in Golang and PHP.
+The name is Muzafar Ali Jatoi, I'm a Senior Backend Software Engineer with over 9 years of professional experience in developing secure and scalable applications leveraging microservices architecture in Golang and PHP.
 
 ##### Tech stack 👨‍💻
 Golang, PHP, gRPC, AWS, Docker, K8s, Terraform, Vault
