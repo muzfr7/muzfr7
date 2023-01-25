@@ -3,7 +3,7 @@
 My name is Muzafar Ali Jatoi and I am a Senior Backend Software Engineer with over 10 years of professional experience in developing secure and scalable applications using microservices architecture in Go, PHP, and Python.
 
 #### Tech stack 👨‍💻
-Golang, PHP, gRPC, AWS, Docker, K8s, Terraform, Vault
+Go, PHP, Python, gRPC, AWS, Docker, K8s, Terraform
 
 #### Find me elsewhere 🌏
 <a href="https://www.linkedin.com/in/muzfr7" target="_blank"><img src="https://user-images.githubusercontent.com/3499157/214627581-bedf1bf8-afa3-4a1b-9815-b21f953c5970.png" width="38px" /></a>
