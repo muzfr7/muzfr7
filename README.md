@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-The name is Muzafar Ali Jatoi, I'm a Senior Backend Software Engineer with over 9 years of professional experience in developing secure and scalable applications leveraging microservices architecture in Golang and PHP.
+My name is Muzafar Ali Jatoi and I am a Senior Backend Software Engineer with over 10 years of professional experience in developing secure and scalable applications using microservices architecture in Go, PHP, and Python.
 
-##### Tech stack 👨‍💻
+#### Tech stack 👨‍💻
 Golang, PHP, gRPC, AWS, Docker, K8s, Terraform, Vault
 
-##### Find me elsewhere 🌏
-[![https://www.linkedin.com/in/muzfr7](https://user-images.githubusercontent.com/3499157/122663676-d6ebde80-d1b5-11eb-9107-d7c2b6a25706.jpg)](https://www.linkedin.com/in/muzfr7)
+#### Find me elsewhere 🌏
+<a href="https://www.linkedin.com/in/muzfr7" target="_blank"><img src="https://user-images.githubusercontent.com/3499157/214627581-bedf1bf8-afa3-4a1b-9815-b21f953c5970.png" width="38px" /></a>
+ &nbsp; <a href="https://www.youtube.com/@muzafar" target="_blank"><img src="https://user-images.githubusercontent.com/3499157/214624517-77c9a309-e02c-4c19-8bba-6cdf36743714.png" width="55px" /></a>
+
+
 
 <!--
 **muzfr7/muzfr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
