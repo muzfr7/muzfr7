@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-Hi, I'm Muzafar Ali Jatoi, a Senior Backend Software Engineer with over a decade of professional experience. I specialize in developing secure and scalable applications using microservices architecture with Go, PHP, and Python. My primary language is Go, and I have experience in breaking monoliths into microservices.
+I'm Muzafar Ali Jatoi, a Senior Backend Software Engineer with over a decade of professional experience. I specialize in building secure and scalable applications using microservices architecture with Go, PHP, and Python. My primary language is Go, and I have extensive experience in breaking monoliths into microservices and migrating services to Go from other programming languages.
+
+I'm genuinely curious about AI and actively explore and integrate these technologies in both personal and professional projects. I have built several AI Agents and MCP servers and continue to learn, experiment, and apply these technologies.
 
 #### Tech stack 👨‍💻
-Go, PHP, Python, gRPC, AWS, Docker, K8s, Terraform
+Go, PHP, Python, n8n, LangChain, MCP, gRPC, AWS, Docker, Kubernetes, Terraform
 
 #### Find me elsewhere 🌏
 <a href="https://www.linkedin.com/in/muzfr7" target="_blank"><img src="https://user-images.githubusercontent.com/3499157/214627581-bedf1bf8-afa3-4a1b-9815-b21f953c5970.png" width="38px" /></a>
